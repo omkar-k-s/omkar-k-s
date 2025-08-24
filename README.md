@@ -24,7 +24,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/omkar-k-s"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/omkar-k-s-4b9911324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ksomkar62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/omkar-k-s"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/omkar-k-s-4b9911324"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:ksomkar62@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=minutemailer"/></a>
 </p>
