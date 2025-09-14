@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Omkar K S</h1>
-<h3 align="center">🚀 AI Engineer | Passionate about Generative AI, Deep Learning & LLMs</h3>
+<h3 align="center">🚀 | Passionate about Generative AI, Deep Learning & LLMs</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%8E%A8;Deep+Learning+with+PyTorch+%F0%9F%94%AC;Exploring+LLMs%2C+GANs+%26" alt="Typing Animation" /> 
