@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%8E%A8;Deep+Learning+with+PyTorch+%F0%9F%94%AC;Exploring+LLMs%2C+GANs+%26" alt="Typing Animation" /> 
 </p>   
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-k-s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
