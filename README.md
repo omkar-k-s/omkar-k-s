@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar K S</h1>
-<h3 align="center">🚀 | Passionate about Generative AI, web development</h3>
+<h3 align="center">🚀 | Passionate about Data Analytics, Generative AI, web development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
