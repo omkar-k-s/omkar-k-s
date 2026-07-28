@@ -58,6 +58,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 
+
 </p>
 ## 🌍 Connect With Me
 
