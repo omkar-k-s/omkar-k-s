@@ -1,69 +1,156 @@
 <h1 align="center">Hi 👋, I'm Omkar K S</h1>
-<h3 align="center">🚀 | Passionate about Data Analytics, Generative AI, web development</h3>
+
+<h3 align="center">
+  🤖 AI/GenAI • 💻 Full Stack Development • 📊 Data Analytics
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Data+Analyst;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
-
-## 📊 GitHub Stats     
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar-k-s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=omkar-k-s&theme=tokyonight" alt="Streak Stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-k-s&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Python+%7C+React+%7C+Flask+Developer;REST+API+%7C+PostgreSQL+%7C+MongoDB;Data+Analytics+Enthusiast;Problem+Solver" alt="Typing Animation" />
 </p>
 
 ---
-## 🌐 Languages & Tools
 
-<p align="center">
+## 👨‍💻 About Me
 
-  <!-- Languages -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+🎓 Information Science and Engineering undergraduate at Visvesvaraya Technological University.
 
-  <!-- Frontend -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+💻 Interested in building scalable **full-stack applications, AI-powered systems, and data-driven solutions**.
 
-  <!-- Backend & Runtime -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
+🤖 Exploring **Generative AI, LLM applications, RAG systems, prompt engineering, and AI-assisted development**.
 
-  <!-- Databases -->
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+🛠️ Experienced with **React.js, TypeScript, Node.js, Express.js, Flask, Python, REST APIs, PostgreSQL, MongoDB, and SQL**.
 
-  <!-- Data Analytics -->
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+🚀 Passionate about transforming ideas into practical, production-oriented applications.
 
-  <!-- Tools -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+🧩 Strong problem-solving foundation with **573+ coding challenges solved** and a **500+ day coding streak**.
 
+---
 
+##  Featured Projects
+
+###  AI-Powered Criminal Network Analysis System
+
+**React.js • TypeScript • Python • Flask • PostgreSQL • REST APIs • Groq API**
+
+* Developed a crime intelligence platform for analyzing criminal cases, accused persons, victims, officers, districts, and police stations.
+* Implemented REST APIs, KPI dashboards, criminal network analysis, crime hotspots, anomaly analysis, and AI-assisted insights.
+
+###  AI-Enabled Ultrasound Analysis & Clinical Decision Support
+
+**Python • Deep Learning • React.js • Flask • MongoDB • REST APIs**
+
+* Developing an AI-based system for ultrasound analysis and identification of fetal growth abnormalities.
+* Integrating deep learning, explainable AI, retrieval-based clinical knowledge support, REST APIs, and automated reporting.
+
+###  Food Donation & Distribution System
+
+**React.js • Node.js • Express.js • MongoDB • REST APIs**
+
+* Built a full-stack platform connecting donors with recipients and streamlining donation creation, tracking, and distribution.
+* Implemented JWT authentication and role-based access control.
+
+---
+
+##  Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
-## 🌍 Connect With Me
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### AI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Applications-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+
+## 🏆 Achievements
+
+* 🧩 **573+ coding problems solved**
+* 🔥 **500+ day CodeChef coding streak**
+* 📊 Completed **Deloitte Data Analytics Job Simulation**
+* 🤖 Completed certifications in **Generative AI and Prompt Engineering**
+* 🌐 Developed and maintained multiple production websites
+* 🎓 B.E. Information Science & Engineering — VTU
+
+---
+
+## 📜 Certifications
+
+* IBM — Generative AI for Data Analysts
+* IBM — Introduction to Generative AI
+* IBM — Prompt Engineering
+* Infosys Springboard — Artificial Intelligence
+* Infosys Springboard — Python
+* Deloitte — Data Analytics Job Simulation
+* NPTEL — Cloud Computing
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/omkar-k-s"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/omkar-k-s-4b9911324"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:ksomkar62@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=minutemailer"/></a>
+  <a href="https://github.com/omkar-k-s">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omkar-k-s-4b9911324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ksomkar62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 Building • Learning • Solving • Creating with AI</i>
 </p>
